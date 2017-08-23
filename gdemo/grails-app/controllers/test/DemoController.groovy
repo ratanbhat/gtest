@@ -7,4 +7,8 @@ class DemoController {
     {
         println 'test'
     }
+
+    def testTwo(){
+        println 'test two'
+    }
 }
